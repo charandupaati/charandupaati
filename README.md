@@ -46,7 +46,7 @@ Skilled in transforming raw data into actionable insights using Python, SQL, and
 - Built regression models (R², MAE, RMSE evaluation)  
 - Analyzed factors influencing salary distribution  
 
-👉 Repo: https://github.com/yourusername/salary-analysis  
+👉 Repo: https://github.com/charandupaati/job-market-salary-prediction 
 
 ---
 
@@ -68,9 +68,9 @@ Skilled in transforming raw data into actionable insights using Python, SQL, and
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 💻 GitHub: https://github.com/yourusername  
-- 📧 Email: your@email.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/dupaati-sri-charan-805670258 
+- 💻 GitHub: https://github.com/charandupaati
+- 📧 Email: sricharandupaati@email.com  
 
 ---
 

@@ -55,7 +55,7 @@ Skilled in transforming raw data into actionable insights using Python, SQL, and
 - Performed feature engineering & encoding  
 - Evaluated using Accuracy, Precision, Recall, F1-score  
 
-👉 Repo: https://github.com/yourusername/ad-click-analysis  
+👉 Repo: https://github.com/charandupaati/Predicting-Customer-Ad-Click-Behavior-Using-Marketing-Analytics-Classification-
 
 ---
 

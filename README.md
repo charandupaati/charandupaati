@@ -37,7 +37,7 @@ Skilled in transforming raw data into actionable insights using Python, SQL, and
 - Created DAX measures for dynamic KPIs  
 - Delivered business insights for decision-making  
 
-👉 Repo: https://github.com/yourusername/retail-sales-dashboard  
+👉 Repo: https://github.com/charandupaati/retail-sales-powerbi-dashboard
 
 ---
 
